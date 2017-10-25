@@ -1,4 +1,4 @@
 # List the GitHub id of anyone who has not provided their bits
 al2100
-QinxinTian
 TonyTheTaiga 
+ryanthomas30
