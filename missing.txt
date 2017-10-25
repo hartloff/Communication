@@ -1,2 +1,5 @@
 # List the GitHub id of anyone who has not provided their bits
 knjames
+a12100
+QinxinTian
+TonyTheTaiga
